@@ -1,2 +1,2 @@
 # git-rebase-merge-demo
-Git rebase &amp; Git merge demo
+The demo of Git Merge and Git Rebase in PR
