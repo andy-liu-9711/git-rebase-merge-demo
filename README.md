@@ -5,3 +5,5 @@ Demo of git merge and git rebase in PR
 
 ## Content
 The content is here
+
+## Reference
